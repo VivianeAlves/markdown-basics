@@ -7,7 +7,7 @@ Escrevendo no gitHub/  Básicos de baixo marcacão
 
 Básicos de baixo marcacão permite voce escrever usando um fácil-de-ler, fácil-de-escrever plano de formatacao de texto, na qual converte para um html valida para visualizacão no gitHub
 
-Modo de escrever básico
+##Modo de escrever básico
 Parágrafos no baixo marcacão é apenas uma ou mais linhas de texto consecutivas seguido de uma ou mais linhas em branco
 
 Em 2 de julho, um alien numa nave espacial entrou na orbita da terra e implantou uma duzia de varias naves espaciais em formato de pires, a cada 15 milhas ( 24 Km) de extensão.
@@ -31,12 +31,12 @@ Nas palabras de Abraham Lincoln:
 
 ##Estilizando texto
 
-Voce pode fazer o texto Negrito ou itálico.
+Voce pode fazer o texto **Negrito** ou *itálico*.
 
 *Esse texto vai ser itálico*
 ** Esse texto vai ser negrito**
 
-Ambos negrito e itálico podem ser usados com * ou _ ao redor do texto para estilizar. Isso permite voce combinar ambos negrito e itálico se precisar.
+Ambos **negrito** e *itálico* podem ser usados com * ou _ ao redor do texto para estilizar. Isso permite voce combinar ambos negrito e itálico se precisar.
 ** Todos _deve_ participar do encontro as 5 horas hoje **
 
 ##Listas
@@ -76,9 +76,9 @@ Voce pode fazer listas aninhadas usando recuo com dois espacos.
 
 ##Formatacão de código
 
-Use um traço para tras ( ‘ ) para formatar o texto com um monospace especial. Tudo com tracos para tras aparece como-é ,  sem outra formatacão especial.
+Use um traço para tras ( ` ) para formatar o texto com um monospace especial. Tudo com tracos para tras aparece como-é ,  sem outra formatacão especial.
 
-Aqui uma ideia: por que nós não pegamos uma ideia superior e tornamos isso em **Razoavel** Projeto ‘
+Aqui uma ideia: por que nós não pegamos uma ideia superior e tornamos isso em **Razoavel** Projeto `
 
 ##Multiplas Linhas
 
@@ -86,12 +86,12 @@ Voce pode usar Triplo traços para tras ( ’’’ ) para formatar o texto como
 
 Da uma olhada nesse programa puro que eu escrevi:
 
-‘’’
+```
 X=0
 X=2+2
 Whats is x
 
-‘’’
+```
 
 ##Links
 Voce pode criar uma linha com link  de proteção de texto em Chaves ( [     ] ) ,e protege o link em parenteses (    )
