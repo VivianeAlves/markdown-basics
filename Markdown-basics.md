@@ -27,7 +27,7 @@ Voce pode criar cabecalhos adicionando um ou mais # símbolos depois do cabecalh
 voce pode indicar reticencias usando > .
 
 Nas palabras de Abraham Lincoln:
-> perdão meu amigo
+>perdão meu amigo
 
 ##Estilizando texto
 
@@ -37,7 +37,7 @@ Voce pode fazer o texto **Negrito** ou *itálico*.
 ** Esse texto vai ser negrito**
 
 Ambos **negrito** e *itálico* podem ser usados com * ou _ ao redor do texto para estilizar. Isso permite voce combinar ambos negrito e itálico se precisar.
-** Todos _deve_ participar do encontro as 5 horas hoje **
+**Todos _devem_ participar do encontro as 5 horas hoje**
 
 ##Listas
 
